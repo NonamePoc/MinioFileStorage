@@ -8,3 +8,6 @@ docker run \
    -e "MINIO_ROOT_USER=ROOTNAME" \
    -e "MINIO_ROOT_PASSWORD=CHANGEME123" \
    quay.io/minio/minio server /data --console-address ":9001"
+
+Documentation:
+https://min.io/docs/minio/linux/developers/dotnet/minio-dotnet.html
