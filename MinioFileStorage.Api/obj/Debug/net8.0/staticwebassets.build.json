@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3EcIL+xSq7Ima0qTfy4I105svb8r8zdgj679Deqpcms=",
+  "Source": "MinioFileStorage.Api",
+  "BasePath": "_content/MinioFileStorage.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

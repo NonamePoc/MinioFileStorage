@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MinioFileStorage.Api.props" />
+</Project>
