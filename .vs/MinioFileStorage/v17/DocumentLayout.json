@@ -7,11 +7,15 @@
       "RelativeMoniker": "D:0:0:{74D25A1D-09D3-4031-A794-CD688DA0AEF8}|MinioFileStorage.Api\\MinioFileStorage.Api.csproj|solutionrelative:miniofilestorage.api\\controllers\\miniofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74D25A1D-09D3-4031-A794-CD688DA0AEF8}|MinioFileStorage.Api\\MinioFileStorage.Api.csproj|e:\\repos\\miniofilestorage\\miniofilestorage.api\\services\\miniostorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74D25A1D-09D3-4031-A794-CD688DA0AEF8}|MinioFileStorage.Api\\MinioFileStorage.Api.csproj|solutionrelative:miniofilestorage.api\\services\\miniostorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D25A1D-09D3-4031-A794-CD688DA0AEF8}|MinioFileStorage.Api\\MinioFileStorage.Api.csproj|e:\\repos\\miniofilestorage\\miniofilestorage.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74D25A1D-09D3-4031-A794-CD688DA0AEF8}|MinioFileStorage.Api\\MinioFileStorage.Api.csproj|solutionrelative:miniofilestorage.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74D25A1D-09D3-4031-A794-CD688DA0AEF8}|MinioFileStorage.Api\\MinioFileStorage.Api.csproj|e:\\repos\\miniofilestorage\\miniofilestorage.api\\miniofilestorage.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -20,10 +24,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{74D25A1D-09D3-4031-A794-CD688DA0AEF8}|MinioFileStorage.Api\\MinioFileStorage.Api.csproj|e:\\repos\\miniofilestorage\\miniofilestorage.api\\miniofilestorage.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{74D25A1D-09D3-4031-A794-CD688DA0AEF8}|MinioFileStorage.Api\\MinioFileStorage.Api.csproj|solutionrelative:miniofilestorage.api\\miniofilestorage.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74D25A1D-09D3-4031-A794-CD688DA0AEF8}|MinioFileStorage.Api\\MinioFileStorage.Api.csproj|e:\\repos\\miniofilestorage\\miniofilestorage.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{74D25A1D-09D3-4031-A794-CD688DA0AEF8}|MinioFileStorage.Api\\MinioFileStorage.Api.csproj|solutionrelative:miniofilestorage.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74D25A1D-09D3-4031-A794-CD688DA0AEF8}|MinioFileStorage.Api\\MinioFileStorage.Api.csproj|e:\\repos\\miniofilestorage\\miniofilestorage.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,26 +51,27 @@
               "RelativeDocumentMoniker": "MinioFileStorage.Api\\Controllers\\MinioFileController.cs",
               "ToolTip": "E:\\Repos\\MinioFileStorage\\MinioFileStorage.Api\\Controllers\\MinioFileController.cs",
               "RelativeToolTip": "MinioFileStorage.Api\\Controllers\\MinioFileController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAqwCgAAAAaAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAEIAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T08:22:26.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MinioStorageService.cs",
               "DocumentMoniker": "E:\\Repos\\MinioFileStorage\\MinioFileStorage.Api\\Services\\MinioStorageService.cs",
               "RelativeDocumentMoniker": "MinioFileStorage.Api\\Services\\MinioStorageService.cs",
               "ToolTip": "E:\\Repos\\MinioFileStorage\\MinioFileStorage.Api\\Services\\MinioStorageService.cs",
               "RelativeToolTip": "MinioFileStorage.Api\\Services\\MinioStorageService.cs",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAAADkAAAAJAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowBoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T11:13:22.375Z"
+              "WhenOpened": "2024-04-13T11:13:22.375Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MinioFileStorage.Api.csproj",
               "DocumentMoniker": "E:\\Repos\\MinioFileStorage\\MinioFileStorage.Api\\MinioFileStorage.Api.csproj",
               "RelativeDocumentMoniker": "MinioFileStorage.Api\\MinioFileStorage.Api.csproj",
@@ -78,43 +79,41 @@
               "RelativeToolTip": "MinioFileStorage.Api\\MinioFileStorage.Api.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-13T11:06:56.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T11:06:56.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MinioFileStorage.Api",
               "DocumentMoniker": "E:\\Repos\\MinioFileStorage\\MinioFileStorage.Api\\MinioFileStorage.Api.csproj",
               "RelativeDocumentMoniker": "MinioFileStorage.Api\\MinioFileStorage.Api.csproj",
               "ToolTip": "E:\\Repos\\MinioFileStorage\\MinioFileStorage.Api\\MinioFileStorage.Api.csproj",
               "RelativeToolTip": "MinioFileStorage.Api\\MinioFileStorage.Api.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-13T11:06:50.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T11:06:50.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
               "ViewState": "AQIAAI4AAAAAAAAAAAAAwKEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-04-13T11:06:38.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T11:06:38.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Repos\\MinioFileStorage\\MinioFileStorage.Api\\appsettings.json",
               "RelativeDocumentMoniker": "MinioFileStorage.Api\\appsettings.json",
               "ToolTip": "E:\\Repos\\MinioFileStorage\\MinioFileStorage.Api\\appsettings.json",
               "RelativeToolTip": "MinioFileStorage.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-12T12:17:38.413Z"
+              "WhenOpened": "2024-04-12T12:17:38.413Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
